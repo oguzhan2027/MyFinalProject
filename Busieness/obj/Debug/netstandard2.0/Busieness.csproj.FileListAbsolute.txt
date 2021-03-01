@@ -1,0 +1,14 @@
+C:\Users\OĞUZHAN\source\repos\MyFinalProject\Busieness\bin\Debug\netstandard2.0\Busieness.deps.json
+C:\Users\OĞUZHAN\source\repos\MyFinalProject\Busieness\bin\Debug\netstandard2.0\Busieness.dll
+C:\Users\OĞUZHAN\source\repos\MyFinalProject\Busieness\bin\Debug\netstandard2.0\Busieness.pdb
+C:\Users\OĞUZHAN\source\repos\MyFinalProject\Busieness\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\OĞUZHAN\source\repos\MyFinalProject\Busieness\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\OĞUZHAN\source\repos\MyFinalProject\Busieness\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\OĞUZHAN\source\repos\MyFinalProject\Busieness\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\OĞUZHAN\source\repos\MyFinalProject\Busieness\obj\Debug\netstandard2.0\Busieness.csprojAssemblyReference.cache
+C:\Users\OĞUZHAN\source\repos\MyFinalProject\Busieness\obj\Debug\netstandard2.0\Busieness.AssemblyInfoInputs.cache
+C:\Users\OĞUZHAN\source\repos\MyFinalProject\Busieness\obj\Debug\netstandard2.0\Busieness.AssemblyInfo.cs
+C:\Users\OĞUZHAN\source\repos\MyFinalProject\Busieness\obj\Debug\netstandard2.0\Busieness.csproj.CoreCompileInputs.cache
+C:\Users\OĞUZHAN\source\repos\MyFinalProject\Busieness\obj\Debug\netstandard2.0\Busieness.csproj.CopyComplete
+C:\Users\OĞUZHAN\source\repos\MyFinalProject\Busieness\obj\Debug\netstandard2.0\Busieness.dll
+C:\Users\OĞUZHAN\source\repos\MyFinalProject\Busieness\obj\Debug\netstandard2.0\Busieness.pdb
