@@ -24,6 +24,8 @@ namespace Busieness.Concrete
             // yetki varmı 
             // şöylemi böylemi :)
             return _productDal.GetAll();
+
+
         }
     }
 }

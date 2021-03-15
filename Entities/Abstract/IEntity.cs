@@ -7,5 +7,7 @@ namespace Entities.Abstract
     //IEntity implment eden class bir veritabanı tablosudur
     public interface IEntity
     {
+
+
     }
 }
